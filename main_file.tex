@@ -1,0 +1,210 @@
+% !TeX spellcheck = en_GB
+
+\documentclass[12pt,a4paper]{scrartcl}
+\usepackage[margin=2.5cm, bottom = 3cm, right = 2.5cm]{geometry} 
+\usepackage[]{ragged2e} %text full justificaton
+\usepackage[onehalfspacing]{setspace} %\onehalfspacing %\setstretch{1,6}
+%\onehalfspacing
+\usepackage{tabularx}
+\usepackage{paralist}
+\setlength{\plitemsep}{1ex} 
+\setlength{\pltopsep}{1ex}
+%\usepackage{hyperref}
+
+\setlength{\parindent}{0pt} %no paragraph indent
+\setlength{\parskip}{2.5ex plus0.5ex minus0ex} %skip between pargagraps
+%\renewcommand{\baselinestretch}{1.5} 
+%\setlength{\baselineskip}{1.25}
+%\linespread{1.25} %1.0 - single, 1.3 - ohe and half, 1.6 - double 
+
+\usepackage[main=english, ngerman]{babel} %language used document structure, e.g. citations
+ 
+%works only with XeLaTeX - compiler
+\usepackage{fontspec}
+\setromanfont{Times New Roman} %Calibri
+\setsansfont{Arial}
+%\setmonofont[Color={0019D4}]{Courier New}
+
+
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{graphicx}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{comment}
+
+\usepackage[backgroundcolor = orange!50, bordercolor = orange!50]{todonotes}
+
+%type of citation, pick up your own
+\usepackage[natbibapa]{apacite} %\usepackage{natbib}
+\bibliographystyle{apacite} %plain, apalike, aparefs (apa6 class only), IEEEtran
+
+
+
+\title{Contribution of Wassily Leontief to The History of Economic Thought in the 20th Century}
+\author{Bystrov Oleg}
+\date{\today}
+
+
+
+\begin{document}
+	%makes title 
+	\maketitle
+	
+
+History of Economic Thought in the 20th Century \newline
+Dr. Annette Vogt \newline
+\newline
+Bystrov Oleg \newline
+MatrikelNr: 567843
+
+
+	
+	\clearpage
+
+	
+	%you can write right here, but it is easier to manage big projects if you have separate file for each section
+%	\input{file_2.tex}
+	\input{introduction.tex}
+	
+	%\input{multicolumn.tex}
+	
+	\section{Early Life}
+	
+	Leontief was born in the year 1905 in Munich, Germany. His father, at the time, was defending his doctoral dissertation and met his mother there, later he became a professor of economics in St. Petersburg University. \cite[pp.347-355]{Kaliadina2006} \cite[]{wassily.leontief.server}
+	
+	\subsection{Education}
+	
+	Leontief has been home-schooled and attended school only for the last two years to get the attestation. For this reason Leontief managed to enter the university at the earlier age of fifteen in the year 1921. He joined the socio-economic department in the Faculty of Social Sciences. 
+	
+	In the interview conducted in 1990 \cite[]{Kaliadina2006} Leontief explains his decision to emigrate. At that time the soviet government was in the process of dissolving free speech and suppressing the "intelligentsia" of the country. Leontief has been involved in debates, criticizing the regime, at his University and was taken multiple times into custody by the Cheka - the first of an upcoming array of security organisations of the Soviet State. There he has been questioned and released, going back to the university and subsequently starting the process again. Leontief, as he stated himself, considered his work as a scientist to be the most important thing in his life and "understood that it was not possible to work as a scientist" \cite[p.351]{Kaliadina2006} in the Soviet State. But leaving the country was not a simple matter. Leontief was presumed to have a terminal illness and was allowed to be issued a passport. Later it turned out to be false. After graduating from the University of Leningrad in 1925 Leontief left the Soviet Union.
+	
+	It is worth noting that in 1922, after protests of the teaching staff in response to planned spending cuts on higher education, it was decided by the government to exile many of them from the country. This included professor P.A. Sorokin, who taught sociology at the Petrograd University. Sociology was not a mandatory subject for Leontief, yet he was interested in the topic and took a class of professor Sorokin. Later they would meet again, both teaching at Harvard in the United States. \cite[p.353]{Kaliadina2006}
+	
+	After leaving the Soviet territory in 1925 Leontief first came to Berlin where he got his PhD in 1928 with the Thesis topic being: "The Economy as a circular flow. Structural Change and Economic Dynamics". It laid the groundwork for Input-Output Analysis.
+	
+	\todo{add some point about moving to USA and positions there}
+	
+	\subsection{Political Stances}
+	
+	Leontief saw the role of an economist as apolitical and rather a scientific one. He was interested in understanding the system and putting it in a mathematical form and empirical context.
+	
+	\section{Influences} \label{influences}
+	
+	To understand how this method came to be we should look at the knowledge that Leontief had accumulated during his academic career and the work of economists who have had an influence. 
+	
+	The idea to describe an economy as a set of interindustry activities (co-related and co-dependent) came before Leontief. Evidence of this approach can be found going back to the seventeenth century when Sir William Petty, described as the first econometrician, presented the notion of a "circular flow" in 1690. Here he states that assessing the wealth of a nation lies in reflecting the interrelationships between production, distribution and disposal of value within its economy. The first estimates of national economic accounts appeared soon after.
+	
+	At that time Mercantilism was the common economic strategy. It emphasized the need of exports to grow the wealth of an economy and, thus, pushed for higher exports and lower imports by adjusting economic policy to its advantage. During the eighteenth century another school of economic thinkers rose, which was called the Physiocracy. They believed that the wealth of a nation amounted solely to their "produit net" - meaning the agricultural product. This opposed the popular Mercantilist view at the time and caused Physiocracy to be considered as controversial. François Quesnay was the leading Physiocrat. In 1759 he developed his Tableau Économique \todo{add Tableau as image}. The Tableau described how value flows from one participant to another, and apart from the notion that manufacturing and commerce did not contribute value to the economy (they were called "sterile expenditures") has picked up a correct thinking about how economy functions. Coming from a Physiocrat the Tableau has been widely criticized by proponents of opposing political views and has not receive wide attention of the economists at the time. Yet it has received praise from some of the economists. Most notably in our context, one of them was Marx. \cite[pp.724-732]{Miller2009}
+	
+	Marx had been developing his own theory and has found that Quesnay's Table supports his own ideas of surplus value (which grew into the "Labor Theory of Value" described in "Capital" in 1867 \cite[]{Marx1887}). Praising it as a "brilliant idea" in a letter to Engels \cite[p.144]{Baumol2000} and in his work Marx once again drew attention to the Tableau.
+	
+	In the early 1920s, during his undergraduate studies, Leontief learned Marx. Nevertheless, as he states himself, his work has not been influenced by Marx's schemes of reproduction. While a student he "read systematically all economists" \cite[p. 53]{Hamilton2008}. In fact, Leontief developed his analysis in response to shortcomings of the classical–neoclassical supply-and-demand analysis as well as lack of facts in the general equilibrium theory.
+	
+	Ultimately Marx, having revived the Tableau of Quesnay, has failed to provide the statistical framework to make it operative and useful in a practical context. \cite[p.232]{Schumpeter1954} 
+	
+	During his career Leontief has pushed efforts to describe concepts in a systematic way, with empirical verification, as well as being a strong proponent of introducing hard sciences within more vague social science of economics, which it was extensively so at the time. \todo{may be cite this (interview Inside Economists mind can be used)}. It is unclear to pinpoint exactly, yet it may be that it was through Marx that he had been introduced more closely to the work of Quesnay.
+	
+	In 1925, when Leontief joined the University of Berlin he became a research assistant of Prof. Werner Sombart who was a historical economist. Later when Leontief started work on his doctorate Sombart was his primary thesis advisor. Sombart could not follow the Leontief's mathematics and Ladislaus von Bortkiewicz, a mathematical economist, joined as second advisor \cite[p.513]{Baumol2009}. Bortkiewicz has been one of the central figures in shaping Leontief's work. He was one of critics of Marx (which resonated with Leontief's own point of view). Most importantly he helped express the Input-Output framework in an algebraic form.
+	
+	What Quesnay's Tableau was lacking is the mathematical formalization and empirical validation. With "The Economy as a circular flow" \cite{Leontief1991} Leontief started trend which will continue to transform the possibilities of practical economic planning during the next decades.
+	
+	"
+	acquired new actuality in our time through the great work of Leontief,11 which, entirely different though it is from Quesnay’s in purpose and technique, nevertheless revived the fundamental principle of the tableau method. Marx, who stands between the two, did not attempt to make his schema statistically operative.
+	"
+	
+	"
+	Economics, like every other science, started with the investigation of ‘local’
+	relations between two or more economic
+	quantities, such as the relation between the price of a commodity and the quantity of it that is available in a market
+	"
+	
+	"
+	It was but slowly that
+	the fact began to dawn upon analysts that there is a pervading
+	interdependence between all economic phenomena, that they all hang together somehow
+	"
+	
+	"they never bothered to investigate how things hang together"
+	\cite[p.232]{Schumpeter1954}
+	
+	
+	
+	\begin{itemize}
+		\item His work based on Quesnay (tableau)
+		\item Marx
+		\item How did he learn them. Marx in Russia.
+		\item Education in Berlin and Thesis Betreuer (Bortkiewicz)
+		
+		\item The road leading to developing the I-O System
+	\end{itemize}
+	
+	This one provides insight into other work on calculating economic systems alongside Leontiefs \cite{Bjerkholt2006}
+	
+	\section{Input Output Analysis} \label{analysis}
+	
+	\begin{itemize}
+		\item Short overview of the I-O Analysis and how it works
+		\item Possible Applications and the history of refinements to it
+	\end{itemize}
+	
+	\section{Influence of the I-O Analysis on Economic Thought and it's use}  \label{contribution}
+	
+	Not interested in improving the system, but understanding how it works. “First job of an economist – understand the economic system”
+	
+	Register the facts in a systematic way, to make it possible to explain the operation of a system
+	
+	\begin{itemize}
+		\item Positive effects to understanding an economic system caused by IO
+		\item Problem: IO is an expensive undertaking for more complex systems
+		\item Applications in the military (calculation of important production sectors and enemy targeting help)
+		\item Applications in public sector, private sector 
+		\item Introduction in the USSR: \cite{leontief1960niedergang}
+	\end{itemize}
+
+	\subsection{Government Sector}
+	
+	\subsection{Private Sector}
+	
+	\subsection{Introduction in the USSR}
+	"Input-output planning was never adopted because the material balance system had become entrenched in the Soviet economy, and input-output planning was shunned for ideological reasons" 
+	\todo{todo} https://en.wikipedia.org/wiki/Input–output\_model
+	
+	Cold-War - USA USSR as 'teachers' of economic policies.\newline
+	
+	\section{The Award of the Nobel Prize} \label{nobelprize}
+	
+		\begin{itemize}
+		\item The actual award
+		\item commentary on his Nobel Prize Speech
+	\end{itemize}
+
+	\section{Conclusion}
+	
+	\todo{the success of IO analysis of Leontief driven largely by his ambitious will to introduce empiric data to economic science and use the theories on practical useful examples aimed to understanding the inner-workings of a system. This is politically unbiased and later proven to be sought by all (including USSR who resists capitalist inventions at all cost)}
+	
+	Leontief's philosophy of improving economics as something that can be more than just a "rule of thumb" \cite[p.~36]{leontief1960niedergang}.
+	One of his main contributions and passions is bringing structure to seemingly chaotic occurrences. 	"Most economists continue to rely on “professional intuition” and “sound judgement” to establish the connection between the facts and the theory of economics" \cite[p.~13]{leontief1951input}
+	
+
+
+
+
+
+	\todo{information about Prize nominations cannot be disclosed publicly for 50 years. https://www.nobelprize.org/nomination/peace/}
+	
+	
+	
+	\subsection{subsection etc}
+	
+	\missingfigure{a picture can be inserted here}
+	\todo{to rewrite this}
+	
+	\cite{Samuelson2007}
+	
+	\listoftodos
+
+	\bibliography{../citations/history}
+	
+\end{document}
