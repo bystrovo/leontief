@@ -86,6 +86,31 @@ Christ, C\BPBI F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Cockshott%
+\ \BBA {} Cottrell%
+}{%
+Cockshott%
+\ \BBA {} Cottrell%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+Cockshott2004}
+\APACinsertmetastar {%
+Cockshott2004}%
+\begin{APACrefauthors}%
+Cockshott, W\BPBI P.%
+\BCBT {}\ \BBA {} Cottrell, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {{Towards a New Socialism}} {{Towards a New Socialism}}.
+\newblock
+\APACaddressPublisher{}{Spokesman, Bertrand Russell House}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Dymond%
 }{%
 Dymond%
@@ -389,7 +414,7 @@ Miller%
 Miller%
 \ \BBA {} Blair%
 }{%
-{\protect \APACyear {2009}}%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
 }]{%
 Miller2009}
 \APACinsertmetastar {%
@@ -400,17 +425,14 @@ Miller, R\BPBI E.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2009}{}{}.
+\APACrefYear{{\protect \bibnodate {}}}.
 \newblock
-{\BBOQ}\APACrefatitle {{Input–Output Analysis}} {{Input–Output
-  Analysis}}.{\BBCQ}
+\APACrefbtitle {{Input–Output Analysis}} {{Input–Output Analysis}}.
 \newblock
-\APACjournalVolNumPages{Physiological Research}{64}{6}{897--905}.
+\APACaddressPublisher{}{Cambridge University Press}.
 \newblock
 \begin{APACrefURL} \url{http://ebooks.cambridge.org/ref/id/CBO9780511626982}
   \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1017/CBO9780511626982} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

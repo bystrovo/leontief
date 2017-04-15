@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 20:56
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 23:05
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -1245,32 +1245,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--61
 (introduction.tex [1
 
 
-]) [2] [3] [4] [5] [6]
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
-\TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
+]) [2] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (2.39651pt too wide) in paragraph at lines 202--203
+[]\TU/TimesNewRoman(0)/m/n/12 Unfortunately (or one might argue that fortunatel
+y) input-output planning had never been adopted
  []
 
-
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
-\TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
- []
-
-
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
-\TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
- []
-
-
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
-\TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
- []
-
-[7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-[9] [10] [11] (main_file.tdo)
+[9] [10] [11] [12] (main_file.tdo)
 \tf@tdo=\write5
 \openout5 = `main_file.tdo'.
 
@@ -1299,146 +1280,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--61
  []
 
 
-Overfull \hbox (322.53592pt too wide) in paragraph at lines 126--141
+Overfull \hbox (322.53592pt too wide) in paragraph at lines 151--166
 \TU/lmtt/m/n/12 http://sgpwe.izt.uam.mx/files/users/uami/atm/Libros/Paul_A._Sam
 uelson_William_A._Barnett_Inside_theBookFi.org.pdf#page=52
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--161
+Underfull \hbox (badness 10000) in paragraph at lines 176--186
 []\TU/TimesNewRoman(0)/m/n/12 Input-Output Analysis.  (n.d.[]).  Investopedia. 
  Retrieved from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--198
+Underfull \hbox (badness 10000) in paragraph at lines 201--223
 []\TU/TimesNewRoman(0)/m/n/12 Kaliadina, S. A., Babaskina, T., Shikalova, M., &
  Wittich, C.  (2006).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--198
+Underfull \hbox (badness 10000) in paragraph at lines 201--223
 \TU/TimesNewRoman(0)/m/n/12 W.W. Leontief and the repressions of the 1920s: An 
 interview.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--198
+Underfull \hbox (badness 10000) in paragraph at lines 201--223
 \TU/TimesNewRoman(0)/m/n/12 Economic Systems Research, 18(4), 347–355.  Retriev
 ed from
  []
 
 
-Overfull \hbox (38.2439pt too wide) in paragraph at lines 176--198
+Overfull \hbox (38.2439pt too wide) in paragraph at lines 201--223
 \TU/lmtt/m/n/12 http://www.scopus.com/inward/record.url?eid=2-s2.0-33845711603&
 partnerID=40
  []
 
 
-Overfull \hbox (50.59189pt too wide) in paragraph at lines 176--198
+Overfull \hbox (50.59189pt too wide) in paragraph at lines 201--223
 \TU/lmtt/m/n/12 http://www.tandfonline.com/doi/full/10.1080/09535310601020884?n
 eedAccess=true
  []
 
-[12
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 236--250
+Underfull \hbox (badness 10000) in paragraph at lines 261--275
 []\TU/TimesNewRoman(0)/m/n/12 Leontief, W.  (1951).  Input output economics. , 
 268.  Retrieved from
  []
 
+[13
 
-Underfull \hbox (badness 7925) in paragraph at lines 312--327
+]
+Underfull \hbox (badness 7925) in paragraph at lines 337--352
 []\TU/TimesNewRoman(0)/m/n/12 Leontief, W.  (1974).  Structure of the World Eco
 nomy. Outline of a Sim-
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 312--327
+Underfull \hbox (badness 7963) in paragraph at lines 337--352
 \TU/TimesNewRoman(0)/m/n/12 ple Input-Output Formulation.  The Swedish Journal 
 of Economics, 76(4),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--327
+Underfull \hbox (badness 10000) in paragraph at lines 337--352
 \TU/TimesNewRoman(0)/m/n/12 387–401.  Retrieved from \TU/lmtt/m/n/12 http://www
 .jstor.org/stable/3439247
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--357
+Underfull \hbox (badness 10000) in paragraph at lines 364--382
 []\TU/TimesNewRoman(0)/m/n/12 Leontief, W.  (1991).  The economy as a circular 
 flow.  Structural
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--357
+Underfull \hbox (badness 10000) in paragraph at lines 364--382
 \TU/TimesNewRoman(0)/m/n/12 Change and Economic Dynamics, 2(1), 181–212.  Retri
 eved from
  []
 
 
-Underfull \hbox (badness 6859) in paragraph at lines 339--357
+Underfull \hbox (badness 6859) in paragraph at lines 364--382
 \TU/lmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/0954349X9190012H   
 \TU/TimesNewRoman(0)/m/n/12 doi:
  []
 
 
-Underfull \hbox (badness 6445) in paragraph at lines 427--440
+Underfull \hbox (badness 6445) in paragraph at lines 449--462
 []\TU/TimesNewRoman(0)/m/n/12 Nobel, A. B.  (1895).  Full Text of Alfred Nobel’
 s Will.  Retrieved from
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 450--458
+Underfull \hbox (badness 1565) in paragraph at lines 472--480
 []\TU/TimesNewRoman(0)/m/n/12 The Prize in Economics 1973 - Press Release.  (n.
 d.[]).  Retrieved 2017-04-15, from
  []
 
 
-Overfull \hbox (81.50388pt too wide) in paragraph at lines 450--458
+Overfull \hbox (81.50388pt too wide) in paragraph at lines 472--480
 \TU/lmtt/m/n/12 http://www.nobelprize.org/nobel_prizes/economic-sciences/laurea
 tes/1973/press.html
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--458
+Underfull \hbox (badness 10000) in paragraph at lines 472--480
 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 470--489
+Underfull \hbox (badness 1584) in paragraph at lines 492--511
 []\TU/TimesNewRoman(0)/m/n/12 Rose, A.  (1995, aug).  Input-output economics an
 d computable general equilibrium
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 470--489
+Underfull \hbox (badness 1009) in paragraph at lines 492--511
 \TU/TimesNewRoman(0)/m/n/12 models.  Structural Change and Economic Dynamics, 6
 (3), 295–304.  Retrieved
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 532--546
+Underfull \hbox (badness 6927) in paragraph at lines 554--568
 []\TU/TimesNewRoman(0)/m/n/12 Schumpeter, J. A.  (1954).  History of economic a
 nalysis.  Retrieved from
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 556--564
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--586
 []\TU/TimesNewRoman(0)/m/n/12 Wassily Leontief Web Portal.  (2003).  Retrieved 
 2017-04-09, from
  []
 
 ) [14] (main_file.aux) ) 
 Here is how much of TeX's memory you used:
- 25440 strings out of 427899
- 520015 string characters out of 3153117
- 678823 words of memory out of 3000000
- 28983 multiletter control sequences out of 15000+200000
- 10439 words of font info for 65 fonts, out of 3000000 for 9000
+ 25297 strings out of 427899
+ 516860 string characters out of 3153117
+ 664557 words of memory out of 3000000
+ 28852 multiletter control sequences out of 15000+200000
+ 7323 words of font info for 51 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 73i,8n,76p,10390b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 73i,8n,68p,10390b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main_file.pdf (14 pages).
