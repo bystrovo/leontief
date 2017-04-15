@@ -278,6 +278,31 @@ Leontief%
 }{%
 Leontief%
 }{%
+{\protect \APACyear {1971}}%
+}]{%
+Leontief1971}
+\APACinsertmetastar {%
+Leontief1971}%
+\begin{APACrefauthors}%
+Leontief, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1971}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Theoretical Assumptions and Nonobserved Facts}}
+  {{Theoretical Assumptions and Nonobserved Facts}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Economic Review}{61}{1}{1--7}.
+\newblock
+\begin{APACrefDOI} \doi{10.1126/science.151.3712.867-a} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Leontief%
+}{%
+Leontief%
+}{%
 {\protect \APACyear {1974}}%
 }]{%
 leontief1974}
