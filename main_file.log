@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 20:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 20:56
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -1246,31 +1246,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--61
 
 
 ]) [2] [3] [4] [5] [6]
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
-[8] [9] [10] [11] (main_file.tdo)
+[9] [10] [11] (main_file.tdo)
 \tf@tdo=\write5
 \openout5 = `main_file.tdo'.
 
@@ -1435,7 +1435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 556--564
 Here is how much of TeX's memory you used:
  25440 strings out of 427899
  520015 string characters out of 3153117
- 678443 words of memory out of 3000000
+ 678823 words of memory out of 3000000
  28983 multiletter control sequences out of 15000+200000
  10439 words of font info for 65 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
