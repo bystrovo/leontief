@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 19:01
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.3.18)  15 APR 2017 20:53
 entering extended mode
 **./main_file.tex
 (main_file.tex
@@ -1242,115 +1242,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--61
 
  []
 
-[1
+(introduction.tex [1
 
 
-] (introduction.tex
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-) [2
-
-] [3] [4]
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-[5] [6] [7]
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
+]) [2] [3] [4] [5] [6]
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
 
-Overfull \hbox (3.11356pt too wide) in paragraph at lines 173--173
+Overfull \hbox (3.11356pt too wide) in paragraph at lines 169--169
 \TU/TimesNewRoman(0)/m/n/12 Jahrbuch  
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
-[9] [10]
-Overfull \hbox (4.46121pt too wide) in paragraph at lines 235--235
-\TU/TimesNewRoman(0)/m/n/12 workings 
- []
-
-
-Overfull \hbox (4.46121pt too wide) in paragraph at lines 235--235
-\TU/TimesNewRoman(0)/m/n/12 workings 
- []
-
-
-Overfull \hbox (4.46121pt too wide) in paragraph at lines 235--235
-\TU/TimesNewRoman(0)/m/n/12 workings 
- []
-
-
-Overfull \hbox (4.46121pt too wide) in paragraph at lines 235--235
-\TU/TimesNewRoman(0)/m/n/12 workings 
- []
-
-
-Overfull \hbox (16.4495pt too wide) in paragraph at lines 247--247
-[][][][]\TU/TimesNewRoman(0)/m/n/12 information 
- []
-
-
-Overfull \hbox (182.74442pt too wide) in paragraph at lines 247--247
-\TU/TimesNewRoman(0)/m/n/12 https://www.nobelprize.org/nomination/peace/  
- []
-
-
-Overfull \hbox (16.4495pt too wide) in paragraph at lines 247--247
-[][][][]\TU/TimesNewRoman(0)/m/n/12 information 
- []
-
-
-Overfull \hbox (182.74442pt too wide) in paragraph at lines 247--247
-\TU/TimesNewRoman(0)/m/n/12 https://www.nobelprize.org/nomination/peace/  
- []
-
-
-Overfull \hbox (16.4495pt too wide) in paragraph at lines 247--247
-[][][][]\TU/TimesNewRoman(0)/m/n/12 information 
- []
-
-
-Overfull \hbox (182.74442pt too wide) in paragraph at lines 247--247
-\TU/TimesNewRoman(0)/m/n/12 https://www.nobelprize.org/nomination/peace/  
- []
-
-
-Overfull \hbox (16.4495pt too wide) in paragraph at lines 247--247
-[][][][]\TU/TimesNewRoman(0)/m/n/12 information 
- []
-
-
-Overfull \hbox (182.74442pt too wide) in paragraph at lines 247--247
-\TU/TimesNewRoman(0)/m/n/12 https://www.nobelprize.org/nomination/peace/  
- []
-
-
-LaTeX Warning: Marginpar on page 11 moved.
-
-(main_file.tdo [11]
-Overfull \hbox (158.88588pt too wide) in paragraph at lines 9--9
- [][] \TU/TimesNewRoman(0)/m/n/12 information about Prize nominations cannot be
- disclosed publicly for 50 years. https://www.nobelprize.org/nomination/peace/ 
-[][]  
- []
-
-)
+[8] [9] [10] [11] (main_file.tdo)
 \tf@tdo=\write5
 \openout5 = `main_file.tdo'.
 
@@ -1390,7 +1310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--161
  Retrieved from
  []
 
-[12]
+
 Underfull \hbox (badness 10000) in paragraph at lines 176--198
 []\TU/TimesNewRoman(0)/m/n/12 Kaliadina, S. A., Babaskina, T., Shikalova, M., &
  Wittich, C.  (2006).
@@ -1420,7 +1340,9 @@ Overfull \hbox (50.59189pt too wide) in paragraph at lines 176--198
 eedAccess=true
  []
 
+[12
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 236--250
 []\TU/TimesNewRoman(0)/m/n/12 Leontief, W.  (1951).  Input output economics. , 
 268.  Retrieved from
@@ -1497,13 +1419,13 @@ Underfull \hbox (badness 1009) in paragraph at lines 470--489
 (3), 295–304.  Retrieved
  []
 
-[13]
+
 Underfull \hbox (badness 6927) in paragraph at lines 532--546
 []\TU/TimesNewRoman(0)/m/n/12 Schumpeter, J. A.  (1954).  History of economic a
 nalysis.  Retrieved from
  []
 
-
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 556--564
 []\TU/TimesNewRoman(0)/m/n/12 Wassily Leontief Web Portal.  (2003).  Retrieved 
 2017-04-09, from
@@ -1511,10 +1433,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 556--564
 
 ) [14] (main_file.aux) ) 
 Here is how much of TeX's memory you used:
- 25474 strings out of 427899
- 520801 string characters out of 3153117
- 702716 words of memory out of 3000000
- 29017 multiletter control sequences out of 15000+200000
+ 25440 strings out of 427899
+ 520015 string characters out of 3153117
+ 678443 words of memory out of 3000000
+ 28983 multiletter control sequences out of 15000+200000
  10439 words of font info for 65 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,8n,76p,10390b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
