@@ -60,36 +60,29 @@ Baumol, W\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Bjerkholt%
-\ \BBA {} Kurz%
+Christ%
 }{%
-Bjerkholt%
-\ \BBA {} Kurz%
+Christ%
 }{%
-{\protect \APACyear {2006}}%
+{\protect \APACyear {1955}}%
 }]{%
-Bjerkholt2006}
+christ1955review}
 \APACinsertmetastar {%
-Bjerkholt2006}%
+christ1955review}%
 \begin{APACrefauthors}%
-Bjerkholt, O.%
-\BCBT {}\ \BBA {} Kurz, H\BPBI D.%
+Christ, C\BPBI F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2006}{}{}.
+\APACrefYearMonthDay{1955}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Introduction: the History of Input–Output Analysis,
-  Leontief's Path and Alternative Tracks}} {{Introduction: the History of
-  Input–Output Analysis, Leontief's Path and Alternative Tracks}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{A review of input-output analysis}} {{A review of
+  input-output analysis}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Economic Systems Research}{18}{4}{331--333}.
+\BIn{} \APACrefbtitle {Input-output analysis: An appraisal} {Input-output
+  analysis: An appraisal}\ (\BPGS\ 137--182).
 \newblock
-\begin{APACrefURL}
-  \url{http://www.tandfonline.com/doi/abs/10.1080/09535310601020850}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1080/09535310601020850} \end{APACrefDOI}
+\APACaddressPublisher{}{Princeton University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -144,6 +137,26 @@ Hamilton, J\BPBI D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1017/S1365100507070393} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {{Input-Output Analysis}}}{%
+\APACciteatitle {{Input-Output Analysis}}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+InvestopediaIO}
+\APACinsertmetastar {%
+InvestopediaIO}%
+{\BBOQ}\APACrefatitle {{Input-Output Analysis}} {{Input-Output
+  Analysis}}.{\BBCQ}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACjournalVolNumPages{Investopedia}{}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.investopedia.com/terms/i/input-output-analysis.asp}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -265,6 +278,33 @@ Leontief%
 }{%
 Leontief%
 }{%
+{\protect \APACyear {1974}}%
+}]{%
+leontief1974}
+\APACinsertmetastar {%
+leontief1974}%
+\begin{APACrefauthors}%
+Leontief, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1974}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Structure of the World Economy. Outline of a Simple
+  Input-Output Formulation}} {{Structure of the World Economy. Outline of a
+  Simple Input-Output Formulation}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Swedish Journal of Economics}{76}{4}{387--401}.
+\newblock
+\begin{APACrefURL} \url{http://www.jstor.org/stable/3439247
+  https://www.jstor.org/stable/pdf/3439247.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Leontief%
+}{%
+Leontief%
+}{%
 {\protect \APACyear {1991}}%
 }]{%
 Leontief1991}
@@ -282,6 +322,10 @@ Leontief, W.%
 \newblock
 \APACjournalVolNumPages{Structural Change and Economic
   Dynamics}{2}{1}{181--212}.
+\newblock
+\begin{APACrefURL}
+  \url{http://linkinghub.elsevier.com/retrieve/pii/0954349X9190012H}
+  \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/0954-349X(91)90012-H} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -367,6 +411,86 @@ Nobel, A\BPBI B.%
 \begin{APACrefURL}
   \url{https://www.nobelprize.org/alfred{\_}nobel/will/will-full.html}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{The Prize in Economics 1973 - Press Release}}}{%
+\APACcitebtitle {{The Prize in Economics 1973 - Press Release}}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+nobelpress}
+\APACinsertmetastar {%
+nobelpress}%
+\APACrefbtitle {{The Prize in Economics 1973 - Press Release}.} {{The Prize in
+  Economics 1973 - Press Release}.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-04-15}]\url{http://www.nobelprize.org/nobel{\_}prizes/economic-sciences/laureates/1973/press.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rose%
+}{%
+Rose%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+rose1995}
+\APACinsertmetastar {%
+rose1995}%
+\begin{APACrefauthors}%
+Rose, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{aug}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Input-output economics and computable general
+  equilibrium models}} {{Input-output economics and computable general
+  equilibrium models}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Structural Change and Economic
+  Dynamics}{6}{3}{295--304}.
+\newblock
+\begin{APACrefURL}
+  \url{http://linkinghub.elsevier.com/retrieve/pii/0954349X9500018I}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0954-349X(95)00018-I} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Samuelson%
+}{%
+Samuelson%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Samuelson1991}
+\APACinsertmetastar {%
+Samuelson1991}%
+\begin{APACrefauthors}%
+Samuelson, P\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{jun}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Leontief's ‘the economy as a circular flow': An
+  introduction}} {{Leontief's ‘the economy as a circular flow': An
+  introduction}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Structural Change and Economic
+  Dynamics}{2}{1}{177--179}.
+\newblock
+\begin{APACrefURL}
+  \url{http://linkinghub.elsevier.com/retrieve/pii/0954349X9190011G}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0954-349X(91)90011-G} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
